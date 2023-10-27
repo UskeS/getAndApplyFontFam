@@ -1,0 +1,2 @@
+# getAndApplyFontFam
+フォントファミリーとウェイトのみを抽出・適用するIllustrator用スクリプト
