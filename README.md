@@ -8,9 +8,9 @@ You can extract font family and style and apply it to other texts (works only in
 フォントファミリーとウェイトを抽出し、別のテキストへ適用するIllustrator用スクリプトです。
 
 ## Installation
-Download the script and save it to any location.  
+[Download the script](https://github.com/UskeS/getAndApplyFontFam/releases/download/v1.0.0/getAndApplyFontFam.zip) and save it to any location.  
 It is convenient to register it in a shortcut and use it. If you are a Mac user, I recommend using a launcher application such as SPAi or a tool such as Keyboard Maestro.  
-スクリプトをダウンロードし、任意の場所に保存してください。  
+[スクリプトをダウンロード](https://github.com/UskeS/getAndApplyFontFam/releases/download/v1.0.0/getAndApplyFontFam.zip)し、任意の場所に保存してください。  
 ショートカットに登録すると便利なので、MacユーザーであればSPAiなどのランチャーアプリや、Keyboard Maestroなどのツールの利用をおすすめします。
 
 ## Usage
